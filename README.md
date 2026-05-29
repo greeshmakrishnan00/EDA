@@ -1,2 +1,6 @@
-# EDA
-## Exploratory Data Analysis  Exploratory Data Analysis (EDA) is the process of analyzing and understanding data using statistics and visualizations. It helps identify patterns, missing values, outliers, and relationships between variables before applying machine learning or statistical models.
+## Overview
+
+* Collection of end-to-end Data Science projects
+* Covers data preprocessing, EDA, feature engineering, and ML models
+* Includes real-world and synthetic datasets
+* Focus on regression, classification, and data analysis
